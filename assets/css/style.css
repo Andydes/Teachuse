@@ -292,9 +292,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #011b36;
+  background: #ff4728;
   color: #fff;
-  border-color: #033973;
+  border-color: #9e301c;
 }
 
 @media (max-width: 768px) {
@@ -478,8 +478,8 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #033973;
-  border: 2px solid #033973;
+  background: #ff4728;
+  border: 2px solid #c23921;
 }
 
 #hero .btn-get-started:hover {
