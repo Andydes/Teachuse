@@ -926,16 +926,20 @@ section {
 
 .features .tab-content {
   margin-top: 30px;
+  line-height: 22px;
+  font-size: 15px;
+  text-justify: auto;
 }
 
 .features .tab-pane h3 {
   font-weight: 600;
-  font-size: 26px;
+  font-size: 24px;
 }
 
 .features .tab-pane ul {
   list-style: none;
   padding: 0;
+  
 }
 
 .features .tab-pane ul li {
@@ -964,20 +968,21 @@ section {
 
 .services .icon-box i {
   float: left;
-  color: #5c8eb0;
-  font-size: 40px;
+  color: #f75727;
+  font-size: 45px;
 }
 
 .services .icon-box h4 {
   margin-left: 70px;
   font-weight: 700;
-  margin-bottom: 15px;
-  font-size: 18px;
+  margin-bottom: 10px;
+  font-size: 17px;
+  margin-bottom: 10px;
 }
 
 .services .icon-box h4 a {
-  color: #365870;
-  transition: 0.3s;
+  color: #f75727;
+  transition: 0.5s;
 }
 
 .services .icon-box .icon-box:hover h4 a {
@@ -986,8 +991,8 @@ section {
 
 .services .icon-box p {
   margin-left: 70px;
-  line-height: 24px;
-  font-size: 14px;
+  line-height: 21px;
+  font-size: 15px;
 }
 
 .services .icon-box:hover h4 a {
