@@ -917,6 +917,7 @@ section {
 @media (max-width: 575px) {
   .features .nav-link {
     padding: 15px;
+    
   }
   .features .nav-link i {
     font-size: 24px;
