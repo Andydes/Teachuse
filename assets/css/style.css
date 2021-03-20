@@ -288,13 +288,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #fff;
+  background: #f75727;
 }
 
 .get-started-btn:hover {
-  background: #f75727;
+  background: #f758275b;
   color: #fff;
-  border-color: #f75727;
 }
 
 @media (max-width: 768px) {
@@ -479,12 +478,10 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   color: #fff;
   background: #f75727;
-  border: 2px solid #f75727;
 }
 
 #hero .btn-get-started:hover {
-  border-color: #fff;
-  background: rgba(255, 255, 255, 0.1);
+  background: #f758275b
 }
 
 #hero .btn-watch-video {
