@@ -549,7 +549,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #5c8eb0;
+  color: #ff8664;
   font-family: "Poppins", sans-serif;
 }
 
@@ -969,15 +969,16 @@ section {
 .services .icon-box i {
   float: left;
   color: #f75727;
-  font-size: 45px;
+  font-size: 42px;
 }
 
 .services .icon-box h4 {
   margin-left: 70px;
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 10px;
   font-size: 17px;
   margin-bottom: 10px;
+  color: #f75727;
 }
 
 .services .icon-box h4 a {
