@@ -1705,3 +1705,8 @@ section {
 #footer .credits a {
   transition: 0.3s;
 }
+
+
+.elfsight-app-8da20211-4aa3-4010-9682-afc1bb0b5b61 div > div > div > :nth-child(5n) {
+  display: none !important;
+}
